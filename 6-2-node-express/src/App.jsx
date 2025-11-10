@@ -9,7 +9,7 @@ LAB SETUP INSTRUCTIONS
 
 1. Navigate to the project directory:
    Open your terminal and run:
-      cd 5-7-node-express
+      cd 6-2-node-express
 
 2. Install project dependencies:
    Run either of these commands:
