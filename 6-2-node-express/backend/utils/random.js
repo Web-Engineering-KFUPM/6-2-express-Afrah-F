@@ -1,3 +1,4 @@
 export function getRandomInt(max) {
-  return {/*write code to here*/}
+    if (typeof max !== "number" || max <= 0) return 0;
+    return Math.floor(Math.random() * max);
 }
